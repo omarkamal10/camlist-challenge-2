@@ -1,7 +1,5 @@
 # Challenge 2
 
-Input Assumptions:
-
 ## About:
 
 This script allows auctions on pets under the Generalized second-price auction mechanism.
