@@ -12,5 +12,5 @@ This script allows auctions on pets under the Generalized second-price auction m
 
 ### Assumptions:
 
-The name and bidding money are tab separated
+The name and bidding money are comma separated.
 The input file has no extra lines at the end of it.
