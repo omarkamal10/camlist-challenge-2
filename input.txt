@@ -1,5 +1,7 @@
-Items,3
+Items,4
 John Doe,100
 John Smith,500
 Sara Conor,280
 Martin Fowler,320
+Loo Fowler,23
+Omar Fowler,44
